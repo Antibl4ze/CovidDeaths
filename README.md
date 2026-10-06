@@ -1,19 +1,18 @@
-I worked on an extended SQL project analyzing COVID-19 datasets that focused on Finland 🇫🇮 in comparison with other Nordic countries 🌍. This project applied my knowledge of SQL to a wide range of queries on two important datasets: COVID-19 death statistics 💔 and vaccination data 💉.
+# COVID-19 Data Analysis (SQL + Tableau)
 
-Data Exploration:
-Gained insights by exploring the raw datasets of COVID-19 deaths and vaccinations 📊.
-Created vaccination statistics by date and location to review the distribution and progress of vaccination campaigns in Finland and other Nordic countries 📅.
+SQL analysis of COVID-19 death and vaccination data, focusing on Finland compared with the other Nordic countries.
 
-Trend Analysis:
-Analyzed death statistics by date and location to find possible trends in COVID-19 fatalities across Finland and its Nordic counterparts 🔍.
-Extracted COVID-19 data specific to Finland to better comprehend the situation within the country 🏠.
-Calculated the share of the population infected with COVID-19 in Finland 📈.
-Compared the rates of infection and total death count for Finland against those of other Nordic nations ⚖️.
+## What I did
+- Explored the deaths and vaccinations datasets in SQL Server
+- Calculated the share of the population infected and the death rate by country
+- Compared infection rates and total deaths for Finland and the other Nordic countries
+- Looked at death counts and case shares by continent
+- Used a rolling sum to track the number of vaccinated people over time
+- Visualised the results in a Tableau dashboard
 
-Continental Insights:
-Analyzed the continental trends in the COVID-19 death toll, focusing on the Nordic countries 🌏.
-Calculated the share of deaths and total cases by continent 🌐.
-Carried out rolling analysis to capture the accumulation of vaccinated individuals over time by location ⏳.
+## Files
+- `SQLQuery5 v2.sql` – all queries
+- `Tableau visualization link` – link to the dashboard on Tableau Public
 
-Key Insights and Impact:
-The project really opened my eyes to how the COVID-19 pandemic progressed, the vaccination drive, and its effectiveness in Finland compared to the rest of the Nordic countries 🏥. In this respect, analysis of data supported by SQL queries lent further insight into the complicated dynamics of the pandemic, thereby enhancing my understanding of global health-related issues 🌟.
+## Tools
+SQL Server (SSMS), Tableau
