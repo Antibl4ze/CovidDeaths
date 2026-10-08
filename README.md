@@ -2,6 +2,11 @@
 
 SQL analysis of COVID-19 death and vaccination data, focusing on Finland compared with the other Nordic countries.
 
+## Dashboard
+[![COVID-19 Tableau dashboard](images/covid-dashboard.jpg)](https://public.tableau.com/app/profile/abir.hossain4647/viz/CovidDataVisualization_17138742015650/Dashboard1)
+
+**[View the interactive dashboard on Tableau Public →](https://public.tableau.com/app/profile/abir.hossain4647/viz/CovidDataVisualization_17138742015650/Dashboard1)**
+
 ## What I did
 - Explored the deaths and vaccinations datasets in SQL Server
 - Calculated the share of the population infected and the death rate by country
